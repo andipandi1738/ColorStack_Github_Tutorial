@@ -3,3 +3,4 @@
 |-------------------|----------------------------------|------|
 | Example Team      | Loves Git tacos                  |   #0 |
 | Alexwuzhere67     | Evades taxes and wanted by IRS   |   #0 |
+| BadFriendz	    | Too BAD			       |   #1 |
